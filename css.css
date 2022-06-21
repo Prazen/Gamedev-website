@@ -1,8 +1,9 @@
-h{
+h1{
     font-size: 18px;
-    background-color: blue;
     color: white;
+    background-color: blue;
 }
 p{
     color: red;
+    background-color: white;
 }
