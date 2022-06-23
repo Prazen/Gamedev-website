@@ -5,14 +5,14 @@ h1 {
     text-align: center;
     color: white;
     background-color: blue;
-    font-size: 25x;
 }
 h2 {
     color: white;
 }
 p{
-    color: red;
-    background-color: white;
+    font-size: 18px;
+    color: white;
+    
 }
 nav{
     background-color: white;
