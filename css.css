@@ -8,6 +8,10 @@ h1 {
 }
 h2 {
     color: white;
+    background-color: blue;
+}
+h3{
+    color: white;
 }
 p{
     font-size: 18px;
